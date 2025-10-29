@@ -61,7 +61,7 @@ Keras = faster prototyping.
 
 PyTorch = greater flexibility and debugging control.
 
-🧬 MODULE 3: ADVANCED MODELS WITH VISION TRANSFORMERS (VITs)
+### 🧬 MODULE 3: ADVANCED MODELS WITH VISION TRANSFORMERS (VITs)
 
 A leap forward into Vision Transformers (ViTs), inspired by transformer architectures used in NLP models like GPT.
 
